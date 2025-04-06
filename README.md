@@ -37,4 +37,4 @@ SFML (Simple and Fast Multimedia Library) was used for creating the game’s **i
    git clone https://github.com/your-username/my-pong-game.git
   ```
 ## Preview
-![Demo]{assets/.gif) 
+![Demo](assets/Pong_C++.gif) 
